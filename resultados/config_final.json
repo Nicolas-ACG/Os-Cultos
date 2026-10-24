@@ -1,0 +1,30 @@
+{
+  "sp100": {
+    "K": 20,
+    "cap": 0.1,
+    "metodo": "ag",
+    "janela_anos": 3,
+    "halflife": null,
+    "shrink": 0.0,
+    "cv_blocos": 0,
+    "lam_turn": 0.0,
+    "gamma_troca": 0.0,
+    "freq_meses": 6,
+    "corr_min": 0.5,
+    "limite_par": 0.9
+  },
+  "ibov": {
+    "K": 20,
+    "cap": 0.1,
+    "metodo": "ag",
+    "janela_anos": 3,
+    "halflife": 126,
+    "shrink": 0.1,
+    "cv_blocos": 0,
+    "lam_turn": 0.0,
+    "gamma_troca": 0.0,
+    "freq_meses": 6,
+    "corr_min": 0.3,
+    "limite_par": 0.9
+  }
+}
