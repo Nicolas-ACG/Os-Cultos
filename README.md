@@ -7,7 +7,7 @@ seleção por algoritmo genético e pesos por otimização quadrática.
 ## Como rodar
 1. Python 3.X (veja requirements.txt)
 2. `pip install -r requirements.txt`
-3. Abra `Projeto_V2.ipynb` no JupyterLab
+3. Abra `Projeto_Final.ipynb` no JupyterLab
 4. `Kernel > Restart Kernel and Run All Cells` (leva alguns minutos)
 
 Os dados já estão nos CSVs `v2_*.csv`, então o notebook não baixa nada.
